@@ -29,4 +29,10 @@ In This What you will learn:
 
 For This Project, I used NPM.
 
+View:
+![Screenshot 2023-06-22 204945](https://github.com/Priy-ansh-jain/Bank_web/assets/87496566/46070a67-6539-4873-a2d3-6a3e4170fa6b
+![Screenshot 2023-06-22 205459](https://github.com/Priy-ansh-jain/Bank_web/assets/87496566/d25726cb-4ded-4d5b-8df4-0c54b3da4586)
+![Screenshot 2023-06-22 205552](https://github.com/Priy-ansh-jain/Bank_web/assets/87496566/14786aa5-6620-4c44-be87-78d1f999f64e)
+
+
 
